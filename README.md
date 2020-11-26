@@ -1,17 +1,8 @@
 # mse_datasets
 A repository with data for various materials properties. Data and/or references are provided. Scripts for processing the data are provided.
 
-## THINGS TO DO:
-0. (Read Matbench paper to get idea about different types of materials tasks)
-1. For each data, make a script to process the "raw data".
-2. Return a "CSV" file with all missing data.
-3. If data has "ICSD/OQMD/MP id numbers, make sure these values aren't lost"
-4. Get the MP data that is missing.
-5. Get more experimental tasks? Get more "interesting non MP/OQMD tasks"
-
-
 ## BENCHMARK DATA:
-Data CSV's
+Data CSV's. These are pre-split into train-val-test.
 
 
 ## Data Origins:
